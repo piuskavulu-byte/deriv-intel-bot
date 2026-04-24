@@ -1,0 +1,1 @@
+v4 with daily 23:59 EAT equity curve
