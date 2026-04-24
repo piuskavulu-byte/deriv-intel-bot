@@ -1,1 +1,1 @@
-v4 with daily 23:59 EAT equity curve
+Fixed for Render - Python 3.11
